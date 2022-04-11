@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = camille.cantin02@gmail.com
+	name = Camille Cantin
